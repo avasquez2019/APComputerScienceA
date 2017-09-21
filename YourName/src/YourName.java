@@ -6,7 +6,7 @@ public class YourName {
 		String name;
 		String color;
 		System.out.print("What's your name?");
-		
+		//stuff
 		
 		
 		
