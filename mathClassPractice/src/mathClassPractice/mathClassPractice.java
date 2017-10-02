@@ -1,4 +1,6 @@
 // Alexander Vasquez
+// 10/1/17
+// Takes the largest integer from what the user has inputted
 package mathClassPractice;
 import java.util.Scanner;// imports package that is inside java which imports another package from util aka utility which is Scanner which helps us be able to use user input 
 public class mathClassPractice {// initiates class which is one of 2 main necessities in order for a program to function 
